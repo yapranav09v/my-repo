@@ -1,7 +1,7 @@
 #making a calculator
 
 def taking_input():
-    a = int(input("\nEnter a first number and number:- "))
+    a = int(input("\nEnter a first number:- "))
     b = int(input("\nEnter a secound number:- "))
     c = input("\nEnter operator(+,-,/,*):- ")
     if c =='+':
